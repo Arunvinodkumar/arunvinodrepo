@@ -1,0 +1,9 @@
+{
+	"name": "ADFdemorepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab2a898e-f29c-4acf-aea7-45393e07e954",
+		"tenantId": "27ffa9e4-c4cf-4426-8f45-fc92b5a157c0"
+	}
+}
